@@ -4,7 +4,7 @@
 // TODO DONE kill lambda after TTL expire
 // TODO make event emitter submit data
 // TODO walk through array of events and fork new process with event as first argument
-// TODO don't fork if it exceeds given limit
+// TODO don't fork if it exceeds given LIMIT
 // TODO hard code default values for LIMIT and TTL values
 
 let myFn = require('./fn');

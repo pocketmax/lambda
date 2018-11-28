@@ -1,0 +1,2 @@
+Feature: Pop events off a queue to pass to lambda and Push emitted events from a lambda to the queue
+  As a service, I will need to pop events off a queue if my data source supports a queue design pattern.
